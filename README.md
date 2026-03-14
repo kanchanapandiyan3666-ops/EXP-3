@@ -1,16 +1,12 @@
 # EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
-
- 
 AIM
  To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
-
 S. No.
 Name of the apparatus	
 Range / Type	
 Quantity
-
 1	Incandescent Lamp	60W	1 No.
 2	Lamp Holder	Pendent Type	1 No.
 3	SPDT Switch	230V,5A	2 Nos
@@ -18,8 +14,6 @@ Quantity
 5	P.V.C Pipe	1/4"	As per requirement
 6	Wooden Board	-	1 No.
 7	Round block	-	1 No.
-
-
 Theory:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
@@ -37,8 +31,6 @@ switch2.
 •  Another end of lamp holder is connected to neutral line.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
-
-
 Direct connection: CIRCUIT DIAGRAM: 
 ![Output](2K.png)
 Tabulation:1
@@ -47,6 +39,5 @@ Cross connection: CIRCUIT DIAGRAM:
 ![Output](2KK.png)
 Tabulation:2
 ![Output](1KK.png)
-
 RESULT:
 Thus the staircase wiring is connected and tested.
