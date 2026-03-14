@@ -40,11 +40,13 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+![Output](2K.png)
 Tabulation:1
-	
+![Output](1K.png)
 Cross connection: CIRCUIT DIAGRAM:
-
+![Output](2KK.png)
 Tabulation:2
+![Output](1KK.png)
 
 RESULT:
 Thus the staircase wiring is connected and tested.
