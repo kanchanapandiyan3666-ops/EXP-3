@@ -29,8 +29,8 @@ PROCEDURE
 •  Circuit is tested for all possible combination of switch positions.
 Direct connection: CIRCUIT DIAGRAM: 
 ![Output](2K.png)    Tabulation:1
-![Output](1K.png)
+![Output](1k.png)
 Cross connection: CIRCUIT DIAGRAM:     
 ![Output](2KK.png)     Tabulation:2
-![Output](1KK.png)
+![Output](1kk.png)
 RESULT: Thus the staircase wiring is connected and tested.
