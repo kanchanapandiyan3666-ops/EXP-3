@@ -9,18 +9,15 @@ S. No.Name of the apparatus	Range / Type	Quantity
 3	SPDT Switch	230V,5A	2 Nos
 4	Wires	1/18”	As per requirement
 Theory:
-•	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
+•	A two way switch is installed near the first step of the stairs.The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
 PROCEDURE
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
-•	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
-•  Upper point of SPDT switch 1 is connected to the lower point of SPDTswitch2.
 ![Output](2K.png)   
 Tabulation:1
 ![Output](1k.png)
 Cross connection: CIRCUIT DIAGRAM:     
 ![Output](2KK.png)     
 Tabulation:2
-![Output](1kk.png)
-RESULT: Thus the staircase wiring is connected and tested.
+![Output](1kk.png)RESULT: Thus the staircase wiring is connected and tested.
