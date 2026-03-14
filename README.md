@@ -3,10 +3,7 @@ EXPT NO: 3				STAIR CASE WIRING
 AIM
  To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
-S. No.
-Name of the apparatus	
-Range / Type	
-Quantity
+S. No.Name of the apparatus	Range / Type	Quantity
 1	Incandescent Lamp	60W	1 No.
 2	Lamp Holder	Pendent Type	1 No.
 3	SPDT Switch	230V,5A	2 Nos
@@ -24,8 +21,7 @@ PROCEDURE
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
 •	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
-•  Upper point of SPDT switch 1 is connected to the lower point of SPDT
-switch2.
+•  Upper point of SPDT switch 1 is connected to the lower point of SPDTswitch2.
 •  Lower point of SPDT 1 is connected to the upper point SPDT switch2.
 •	Another wire taken through a P.V.C pipe and middle point of SPDT switch 2 is connected to one end of the lamp holder.
 •  Another end of lamp holder is connected to neutral line.
@@ -37,5 +33,4 @@ Direct connection: CIRCUIT DIAGRAM:
 Cross connection: CIRCUIT DIAGRAM:     
 ![Output](2KK.png)     Tabulation:2
 ![Output](1KK.png)
-RESULT:
-Thus the staircase wiring is connected and tested.
+RESULT: Thus the staircase wiring is connected and tested.
