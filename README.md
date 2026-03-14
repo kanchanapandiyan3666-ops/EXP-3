@@ -32,12 +32,10 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 Direct connection: CIRCUIT DIAGRAM: 
-![Output](2K.png)
-Tabulation:1
+![Output](2K.png)    Tabulation:1
 ![Output](1K.png)
-Cross connection: CIRCUIT DIAGRAM:
-![Output](2KK.png)
-Tabulation:2
+Cross connection: CIRCUIT DIAGRAM:     
+![Output](2KK.png)     Tabulation:2
 ![Output](1KK.png)
 RESULT:
 Thus the staircase wiring is connected and tested.
